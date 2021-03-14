@@ -6,7 +6,7 @@ import "./TestComponent.scss";
 function TestComponent() {  
   return (
     <div>
-      <h1> Test Component! </h1>
+      <h1> Test Component </h1>
     </div>
   );
 }
