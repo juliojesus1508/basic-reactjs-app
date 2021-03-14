@@ -1,2 +1,1 @@
-# basic-reactjs-app
-ReactJS (Webpack config)
+# Basic ReacjJS app
